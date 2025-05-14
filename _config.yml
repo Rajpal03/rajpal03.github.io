@@ -13,12 +13,14 @@ title: Rajpal's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Rajpal Singh
-headline: headline message
+headline: Mechanical Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I have bachelor's and master's degree in Mechanical Engineering. I cannot present all my skills in my resume,
+  so I would like to share in my portfolio some of the exciting projects I have done over the years.
 
+  I did many projects during my professional work, but I could not share all of them with you (NDA). The ones 
+  I did share, I hope you will enjoy exploring them, as I was enjoying doing them.
+  
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
 
